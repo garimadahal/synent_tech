@@ -1,159 +1,252 @@
-# 🎨 UI/UX Internship Design Tasks
+# 🎨 Synent Technologies – Graphic Design Internship Portfolio
 
-This repository contains my completed UI/UX internship design tasks created using **Figma**. The project demonstrates my understanding of user interface design, branding, marketing creatives, and responsive web design principles.
-
-## 📌 Project Overview
-
-The tasks focus on creating modern, user-friendly, and visually consistent designs for different business requirements.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Tool](https://img.shields.io/badge/Tool-Figma-purple)
+![Internship](https://img.shields.io/badge/Internship-Graphic%20Design-blue)
 
 ---
 
-## 📂 Completed Tasks
+## 📌 About This Repository
 
-### ✅ Task 6 – Company Social Media Designs
+This repository contains my completed internship design projects created during the **Graphic Design Internship** at **Synent Technologies**.
 
-Designed a complete set of promotional social media creatives for **Synent Technologies**.
+The objective of this internship was to improve practical design skills by completing real-world branding, UI/UX, marketing, and graphic design tasks using **Figma**.
 
-**Includes:**
-- Welcome Post
-- Our Services Post
-- Hiring Post
+Throughout this internship, I focused on creating modern, clean, and visually consistent designs while following branding and design principles.
 
-**Skills Used**
-- Branding
-- Social Media Design
-- Visual Hierarchy
+---
+
+# 📂 Repository Structure
+
+```
+Synent-Graphic-Design-Internship
+│
+├── Task-01-Social-Media-Post
+├── Task-02-Poster-Design
+├── Task-03-Logo-Design
+├── Task-04-Business-Card
+├── Task-05-Brand-Identity-Kit
+├── Task-06-Social-Media-Campaign
+├── Task-07-UI-Design
+├── Task-08-Marketing-Creatives-Pack
+├── Task-09-Complete-Brand-Design
+│
+├── README.md
+```
+
+---
+
+# 🎯 Internship Objectives
+
+- Design engaging social media content
+- Create promotional marketing materials
+- Develop a professional brand identity
+- Design modern website interfaces
+- Build complete branding projects
+- Apply UI/UX design principles
+- Maintain consistency across all deliverables
+
+---
+
+# ✅ Completed Tasks
+
+## 🟢 Basic Level
+
+### Task 01 – Social Media Post Design
+
+Designed engaging Instagram and LinkedIn posts featuring:
+
+- Brand title
+- High-quality graphics
+- Call-to-action
+- Modern layout
+
+---
+
+### Task 02 – Poster Design
+
+Created a promotional event poster with:
+
+- Professional typography
+- Balanced layout
+- Brand consistency
+- High-quality visuals
+
+---
+
+### Task 03 – Logo Design
+
+Designed a minimal and memorable logo including:
+
+- Primary Logo
+- Logo Variations
+- Transparent Version
+
+---
+
+### Task 04 – Business Card Design
+
+Created both front and back business card designs featuring:
+
+- Company logo
+- Contact information
+- Professional layout
+- Brand colors
+
+---
+
+## 🟡 Intermediate Level
+
+### Task 05 – Brand Identity Kit
+
+Created a complete brand guideline including:
+
+- Cover Page
+- Logo Presentation
+- Color Palette
 - Typography
-- Color Theory
+- Clear Space
+- Logo Do's & Don'ts
+- Brand Mockups
 
 ---
 
-### ✅ Task 7 – UI Design Project
+### Task 06 – Social Media Campaign
 
-Designed a responsive landing page for an **IT Learning Platform (EduLearn)**.
+Designed a complete campaign including:
 
-**Pages & Sections**
+- Welcome Post
+- Services Post
+- Hiring Post
+- Thank You Post
+
+All posts maintain a consistent visual identity.
+
+---
+
+### Task 07 – UI Design
+
+Designed an **IT Learning Platform** homepage including:
+
 - Navigation Bar
 - Hero Section
-- Popular Courses
-- Features
+- Featured Courses
+- Why Choose Us
 - Footer
 
-**Skills Used**
-- UI Design
-- Layout Design
-- User Experience
-- Components
-- Auto Layout
-- Responsive Design
-
 ---
 
-### ✅ Task 8 – Marketing Creatives Pack
+## 🔴 Advanced Level
 
-Designed marketing materials for the EduLearn platform.
+### Task 08 – Marketing Creatives Pack
 
-**Includes**
-- Social Media Post
+Designed:
+
+- Social Media Creative
 - Promotional Banner
-- Vertical Poster
-
-**Skills Used**
-- Marketing Design
-- Brand Consistency
-- Call-to-Action Design
+- Promotional Poster
 
 ---
 
-### ✅ Task 9 – Complete Brand Design Project
+### Task 09 – Complete Brand Design Project
 
-Created a complete branding package for EduLearn.
+Created a complete branding package including:
 
-**Includes**
-- Logo Design
-- Logo Variations
+- Logo
 - Business Card
-- Brand Guidelines
-- Typography
-- Color Palette
-
-**Skills Used**
+- Social Media Post
+- Banner
 - Brand Identity
-- Logo Design
-- Graphic Design
-- Design System
 
 ---
 
-## 🛠️ Tools Used
+# 🛠️ Software Used
 
 - Figma
 - Google Fonts
-- Icons8 / Flaticon
-- Unsplash / Freepik (where applicable)
+- Icons8
+- Flaticon
+- Unsplash
+- Freepik
 
 ---
 
-## 🎯 Design Principles
-
-- Clean UI
-- Modern Design
-- Consistent Branding
-- User-Friendly Layout
-- Accessibility
-- Proper Visual Hierarchy
-
----
-
-## 📷 Preview
-
-### Task 6
-- Welcome Design
-- Services Design
-- Hiring Design
-
-### Task 7
-- EduLearn Landing Page
-
-### Task 8
-- Marketing Creative Pack
-
-### Task 9
-- Complete Brand Design Project
-
----
-
-## 🚀 Skills Demonstrated
+# 🎨 Design Skills Demonstrated
 
 - UI Design
 - UX Fundamentals
 - Graphic Design
-- Branding
+- Brand Identity
+- Logo Design
 - Typography
 - Color Theory
+- Layout Design
+- Marketing Design
 - Social Media Design
-- Landing Page Design
-- Marketing Creatives
 - Business Card Design
+- Poster Design
+- Banner Design
 
 ---
 
-## 👩‍💻 About Me
+# 🎯 Design Principles Applied
+
+- Visual Hierarchy
+- Alignment
+- Consistency
+- Contrast
+- White Space
+- Accessibility
+- Modern UI
+- Brand Consistency
+
+---
+
+# 📸 Project Preview
+
+Each task folder contains:
+
+- Source Files (.fig if available)
+- PNG/JPG Exports
+- README.md
+- Project Assets
+
+---
+
+# 🚀 How to View
+
+1. Open any task folder.
+2. View the exported PNG/JPG designs.
+3. Read the task-specific README.
+4. Review the complete design process.
+
+---
+
+# 👩‍💻 About Me
 
 **Garima Dahal**
 
-BCA Student | UI/UX Designer | Graphic Designer
+Bachelor of Computer Application (BCA) Student
 
-I enjoy designing clean, modern, and user-friendly digital experiences while continuously improving my design skills.
-
----
-
-## 📫 Contact
-
-**Email:** dahalgarima04@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/garima-dahal-b23b31404
+Aspiring **UI/UX Designer** and **Graphic Designer** passionate about creating clean, user-friendly, and visually engaging digital experiences.
 
 ---
 
-⭐ Thank you for reviewing my internship project.
+# 📫 Contact
+
+**Email**
+
+dahalgarima04@gmail.com
+
+**LinkedIn**
+
+https://www.linkedin.com/in/garima-dahal-b23b31404
+
+
+## ⭐ Acknowledgements
+
+Special thanks to **Synent Technologies** for providing this internship opportunity and practical design tasks that helped strengthen my UI/UX and graphic design skills.
+
+---
+
+⭐ Thank you for visiting this repository.
